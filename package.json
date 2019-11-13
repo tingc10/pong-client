@@ -2,7 +2,7 @@
   "name": "pong-client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tingc10.github.io/pong-client",
+  "homepage": "https://tingc10.github.io/pong-client/",
   "dependencies": {
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
