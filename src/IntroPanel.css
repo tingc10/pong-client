@@ -1,0 +1,30 @@
+.panel-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow-y: auto;
+  background: rgba(0,0,0,0.7);
+}
+
+.panel-container.hide {
+  background: transparent;
+  transition: 0.3s background ease-out;
+}
+
+.panel {
+  max-width: 500px;
+  background-color: white;
+  padding: 20px;
+  margin: 50px auto;
+  height: initial;
+  border-radius: 2px;
+  transition: 0.3s transform ease-out, 0.3s opacity ease-out;
+}
+
+.panel.hide {
+  transform: translateY(-300px);
+  opacity: 0;
+  pointer-events: none;
+}

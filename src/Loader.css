@@ -1,0 +1,87 @@
+.loader {
+  width: 125px;
+  z-index: 1;
+}
+
+#infinity {
+  fill: none;
+  stroke: white;
+  stroke-width: 15px;
+  stroke-dasharray: 56.0698191325 616.7680104574;
+  stroke-linecap: round;
+  animation: 1.5s rollercoaster linear infinite, 1.5s strokeLength 0.1s linear infinite;
+}
+
+@keyframes rollercoaster {
+  0% {
+    stroke-dashoffset: 40px;
+  }
+  10% {
+    stroke-dashoffset: 65px;
+  }
+  20% {
+    stroke-dashoffset: 124.1047286987px;
+  }
+  30% {
+    stroke-dashoffset: 292.3141860962px;
+  }
+  40% {
+    stroke-dashoffset: 351.4189147949px;
+  }
+  50% {
+    stroke-dashoffset: 376.4189147949px;
+  }
+  60% {
+    stroke-dashoffset: 401.4189147949px;
+  }
+  70% {
+    stroke-dashoffset: 460.5236434937px;
+  }
+  80% {
+    stroke-dashoffset: 628.7331008911px;
+  }
+  90% {
+    stroke-dashoffset: 687.8378295898px;
+  }
+  100% {
+    stroke-dashoffset: 712.8378295898px;
+  }
+}
+@keyframes strokeLength {
+  0% {
+    stroke-width: 15px;
+    stroke-dasharray: 56.0698191325 616.7680104574;
+  }
+  12.5% {
+    stroke-width: 13.5px;
+    stroke-dasharray: 67.283782959 605.5540466309;
+  }
+  25% {
+    stroke-width: 9.75px;
+    stroke-dasharray: 140.1745478312 532.6632817586;
+  }
+  37.5% {
+    stroke-width: 13.5px;
+    stroke-dasharray: 67.283782959 605.5540466309;
+  }
+  50% {
+    stroke-width: 15px;
+    stroke-dasharray: 56.0698191325 616.7680104574;
+  }
+  62.5% {
+    stroke-width: 13.5px;
+    stroke-dasharray: 67.283782959 605.5540466309;
+  }
+  75% {
+    stroke-width: 9.75px;
+    stroke-dasharray: 140.1745478312 532.6632817586;
+  }
+  87.5% {
+    stroke-width: 13.5px;
+    stroke-dasharray: 67.283782959 605.5540466309;
+  }
+  100% {
+    stroke-width: 15px;
+    stroke-dasharray: 56.0698191325 616.7680104574;
+  }
+}
