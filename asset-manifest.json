@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/pong-client/static/css/main.b100e6da.chunk.css",
-    "main.js": "/pong-client/static/js/main.3487e177.chunk.js",
-    "main.js.map": "/pong-client/static/js/main.3487e177.chunk.js.map",
+    "main.css": "/pong-client/static/css/main.74c51dc3.chunk.css",
+    "main.js": "/pong-client/static/js/main.7d78a363.chunk.js",
+    "main.js.map": "/pong-client/static/js/main.7d78a363.chunk.js.map",
     "runtime-main.js": "/pong-client/static/js/runtime-main.a28f8ede.js",
     "runtime-main.js.map": "/pong-client/static/js/runtime-main.a28f8ede.js.map",
-    "static/js/2.651e1957.chunk.js": "/pong-client/static/js/2.651e1957.chunk.js",
-    "static/js/2.651e1957.chunk.js.map": "/pong-client/static/js/2.651e1957.chunk.js.map",
+    "static/js/2.04484594.chunk.js": "/pong-client/static/js/2.04484594.chunk.js",
+    "static/js/2.04484594.chunk.js.map": "/pong-client/static/js/2.04484594.chunk.js.map",
     "index.html": "/pong-client/index.html",
-    "precache-manifest.3c2ad298fe3a8c3e667b7aa3fca96a13.js": "/pong-client/precache-manifest.3c2ad298fe3a8c3e667b7aa3fca96a13.js",
+    "precache-manifest.f24abdf16efa3b3723b8676476978612.js": "/pong-client/precache-manifest.f24abdf16efa3b3723b8676476978612.js",
     "service-worker.js": "/pong-client/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/pong-client/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/pong-client/static/media/logo.25bf045c.svg"
+    "static/css/main.74c51dc3.chunk.css.map": "/pong-client/static/css/main.74c51dc3.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.a28f8ede.js",
-    "static/js/2.651e1957.chunk.js",
-    "static/css/main.b100e6da.chunk.css",
-    "static/js/main.3487e177.chunk.js"
+    "static/js/2.04484594.chunk.js",
+    "static/css/main.74c51dc3.chunk.css",
+    "static/js/main.7d78a363.chunk.js"
   ]
 }
