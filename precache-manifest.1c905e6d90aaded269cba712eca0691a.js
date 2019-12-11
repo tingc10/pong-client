@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "02cedd3b81eae28c486b26d85713f531",
+    "revision": "6d920372e5d13a33f4cd188d1ed188e4",
     "url": "/pong-client/index.html"
   },
   {
-    "revision": "60519b9584726e0503f1",
+    "revision": "8bf4c25a54745a55ac50",
     "url": "/pong-client/static/css/main.74c51dc3.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pong-client/static/js/2.04484594.chunk.js"
   },
   {
-    "revision": "60519b9584726e0503f1",
-    "url": "/pong-client/static/js/main.e9ea02c8.chunk.js"
+    "revision": "8bf4c25a54745a55ac50",
+    "url": "/pong-client/static/js/main.233da05b.chunk.js"
   },
   {
     "revision": "f96fb1efe9c8f34b0727",
