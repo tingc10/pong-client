@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import './IntroPanel.css';
 import classnames from 'classnames';
 
-const MOBILE_GAMEPAD_URL = 'bit.ly/MBLgamepad';
+const MOBILE_GAMEPAD_URL = 'bit.ly/virtualgamepad';
 
 export function IntroPanel({ serverReady = false }) {
   const [hideOverlay, setHideOverlay] = useState(false);
