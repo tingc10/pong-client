@@ -35,9 +35,19 @@ function App() {
   useEffect(() => {
     pingServerSocket().then(() => {
       setIsLoadingServer(false);
-      window.UnityLoader.instantiate("gameContainer", `${UNITY_BUILD_PATH}Build/build.json`, { onProgress: window.UnityProgress });
+      window.UnityLoader.instantiate(
+        "gameContainer",
+        `${UNITY_BUILD_PATH}Build/build.json`,
+        {
+          onProgress: window.UnityProgress,
+          Module: {
+            onRuntimeInitialized: () => {
+              setTimeout(resizeCanvas);
+            }
+          }
+        }
+      );
     });
-    resizeCanvas();
     window.addEventListener('resize', throttle(resizeCanvas, 100));
   }, []);
 
