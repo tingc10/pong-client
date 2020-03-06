@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pong-client/static/css/main.74c51dc3.chunk.css",
-    "main.js": "/pong-client/static/js/main.233da05b.chunk.js",
-    "main.js.map": "/pong-client/static/js/main.233da05b.chunk.js.map",
+    "main.js": "/pong-client/static/js/main.3fa05a80.chunk.js",
+    "main.js.map": "/pong-client/static/js/main.3fa05a80.chunk.js.map",
     "runtime-main.js": "/pong-client/static/js/runtime-main.a28f8ede.js",
     "runtime-main.js.map": "/pong-client/static/js/runtime-main.a28f8ede.js.map",
     "static/js/2.04484594.chunk.js": "/pong-client/static/js/2.04484594.chunk.js",
     "static/js/2.04484594.chunk.js.map": "/pong-client/static/js/2.04484594.chunk.js.map",
     "index.html": "/pong-client/index.html",
-    "precache-manifest.1c905e6d90aaded269cba712eca0691a.js": "/pong-client/precache-manifest.1c905e6d90aaded269cba712eca0691a.js",
+    "precache-manifest.b4799b0a2f09480b051faf3da5130215.js": "/pong-client/precache-manifest.b4799b0a2f09480b051faf3da5130215.js",
     "service-worker.js": "/pong-client/service-worker.js",
     "static/css/main.74c51dc3.chunk.css.map": "/pong-client/static/css/main.74c51dc3.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.a28f8ede.js",
     "static/js/2.04484594.chunk.js",
     "static/css/main.74c51dc3.chunk.css",
-    "static/js/main.233da05b.chunk.js"
+    "static/js/main.3fa05a80.chunk.js"
   ]
 }
